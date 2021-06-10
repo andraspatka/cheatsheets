@@ -5,6 +5,8 @@ kubectl get pods
 kubectl get pods -w
 kubectl get svc
 kubectl get nodes
+kubectl get deployment
+kubectl get ing
 kubectl logs <pod_name>
 kubectl logs -f -l app=<service_name>
 kubectl exec -it <pod_name> -- sh

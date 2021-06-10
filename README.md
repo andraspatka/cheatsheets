@@ -2,9 +2,13 @@
 
 This repository contains multiple markdown docuemments which contain frequently used commands for Kubernetes, docker, skaffold, helm.
 
-# Kubernetes
+# Kubectl
 
-See [KUBERNETES.md](KUBERNETES.md)
+See [KUBECTL.md](KUBECTL.md)
+
+# Kubeadm
+
+See [KUBECTL.md](KUBECTL.md)
 
 # Docker
 
